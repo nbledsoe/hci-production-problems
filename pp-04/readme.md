@@ -25,11 +25,11 @@ Small commits to your Production Problems repository that include:
 2. an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guideline One (URL):
+* Bars (https://developer.apple.com/design/human-interface-guidelines/ios/bars/navigation-bars/):
 * Describe how you implemented that guideline in your sketch:
 
-* HCI Guideline Two (URL):
+* Views (https://developer.apple.com/design/human-interface-guidelines/ios/views/action-sheets/):
 * Describe how you implemented that guideline in your sketch:
 
-* HCI Guideline Three (URL):
+* Controls (https://developer.apple.com/design/human-interface-guidelines/ios/controls/buttons/):
 * Describe how you implemented that guideline in your sketch:
